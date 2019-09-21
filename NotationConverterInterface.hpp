@@ -1,5 +1,6 @@
+/**************************************************************************/
 // Author of this file: Dr. William Oropallo
-
+/**************************************************************************/
 #ifndef NOTATIONCONVERTERINTERFACE_H
 #define NOTATIONCONVERTERINTERFACE_H
 
