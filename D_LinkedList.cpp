@@ -1,6 +1,6 @@
 /*
 	Author of this file:	Mihir Patel
-				Purpose:	This is data structure for D_LinkedList.hpp. 
+		    Purpose:	This is data structure for D_LinkedList.hpp. 
 */
 #include "D_LinkedList.hpp"
 /*D_LinkedList constructor that creates sentinels*/
