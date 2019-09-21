@@ -1,8 +1,8 @@
 /*
 	Author of this file:	Mihir Patel
-				Purpose:	Following the header Deque ADT that use Double Linked List Structures to 
-							solve the reverse polish notification operations and goes back-and-forth
-							between notations.
+		    Purpose:	Following the header Deque ADT that use Double Linked List Structures to 
+				solve the reverse polish notification operations and goes back-and-forth
+				between notations.
 */
 #ifndef DL_DEQUE_HPP
 #define DL_DEQUE_HPP
