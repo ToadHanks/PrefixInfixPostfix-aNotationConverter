@@ -40,8 +40,9 @@ by one space from an operator and none for another parenthesis. This is this way
 **Output**: ((x / y) - g)   
 **Output**: ((x / y) - (a * b))   
 **Output**: x y * g / h +   
-
-Please use test file to run your input strings to convert into one of the notations.
+    
+Please use test file CalcListTest to tet your given input. 
+      
 Examples   
 --------   
 Below are some examples of how this code runs. The test file can also be used to get an idea of how the code can run. 
