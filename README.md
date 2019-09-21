@@ -41,7 +41,7 @@ by one space from an operator and none for another parenthesis. This is this way
 **Output**: ((x / y) - (a * b))   
 **Output**: x y * g / h +   
     
-Please use test file CalcListTest to tet your given input. 
+Please use test file NotationConverterTest.cpp to test your given input. 
       
 Examples   
 --------   
