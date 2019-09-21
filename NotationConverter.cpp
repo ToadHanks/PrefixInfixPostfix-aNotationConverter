@@ -1,8 +1,8 @@
 /*
 	Author of this file:	Mihir Patel
-				Previous:	Following is a source file for NotationConverter.hpp. It defines the 
-							assignement functions, and uses the Deque ADT based on the double 
-							linked list data structures.
+		   Previous:	Following is a source file for NotationConverter.hpp. It defines the 
+				assignement functions, and uses the Deque ADT based on the double 
+				linked list data structures.
 */
 #include "NotationConverter.hpp"
 
