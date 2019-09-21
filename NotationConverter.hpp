@@ -1,8 +1,8 @@
 /*
 	Author of this file:	Mihir Patel
-				Purpose:	This is header file that the inherits the assignment interface files, and override
-							the virtual functions and implements the functions to solve the strings to different 
-							notations.
+		    Purpose:	This is header file that the inherits the assignment interface files, and override
+				the virtual functions and implements the functions to solve the strings to different 
+				notations.
 */
 #ifndef NOTATIONCONVERTER_HPP
 #define NOTATIONCONVERTER_HPP
