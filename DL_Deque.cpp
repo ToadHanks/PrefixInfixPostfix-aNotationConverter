@@ -1,7 +1,7 @@
 /*
 	Author of this file:	Mihir Patel
-				Purpose:	Following is a source file for DL_Deque.hpp ADT. It has access to the D_LinkedList.hpp 
-							data structures.	
+		    Purpose:	Following is a source file for DL_Deque.hpp ADT. It has access to the D_LinkedList.hpp 
+					data structures.	
 */
 #include "DL_Deque.hpp"
 
