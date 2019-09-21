@@ -1,7 +1,7 @@
 /*
 	Author of this file:	Mihir Patel
 	            Purpose:    Following is a header file that depends on D_Node.hpp. This creates the data structures
-			            	for doubly-linked list. It also friends the Deque.
+			        for doubly-linked list. It also friends the Deque.
 */
 #ifndef D_LINKEDLIST_HPP
 #define D_LINKEDLIST_HPP
