@@ -41,21 +41,22 @@ by one space from an operator and none for another parenthesis. This is this way
 **Output**: ((x / y) - (a * b))   
 **Output**: x y * g / h +   
 
+Please use test file to run your input strings to convert into one of the notations.
 Examples   
 --------   
 Below are some examples of how this code runs. The test file can also be used to get an idea of how the code can run. 
 ````````cpp
 NotationConverter nc; 
 
-std::string examplePost = "c d / a b * r r * / *"; 
-nc.postfixToInfix(examplePost)  // Infix: ((c / d) * ((a * b) / (r * r)))
-nc.postfixToPrefix(examplePost) // Prefix * / c d / * a b * r r 
+std::string examplePost = "c d / a b * r r * / *";   
+nc.postfixToInfix(examplePost)  // Infix: ((c / d) * ((a * b) / (r * r)))  
+nc.postfixToPrefix(examplePost) // Prefix * / c d / * a b * r r   
 
-std::string examplePre = "* + A B - C D”; 
-nc.prefixToInfix(examplePre)  // Infix: ((A + B) * (C - D)) 
-nc.prefixToPostfix(examplePre) // Postfix A B + C D - * 
+std::string examplePre = "* + A B - C D”;   
+nc.prefixToInfix(examplePre)  // Infix: ((A + B) * (C - D))    
+nc.prefixToPostfix(examplePre) // Postfix A B + C D - *    
 
-std::string exampleInfix = "((a / f) ((a * b) / (r * r)))"; 
-nc.infixToPostfix(exampleInfix) // Postfix: a f / a b * r r * / 
-nc.infixToPrefix(exampleInfix)  // Prefix / a f / * a b * r r   
+std::string exampleInfix = "((a / f) ((a * b) / (r * r)))";   
+nc.infixToPostfix(exampleInfix) // Postfix: a f / a b * r r * /    
+nc.infixToPrefix(exampleInfix)  // Prefix / a f / * a b * r r      
 ````````
