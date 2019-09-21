@@ -1,6 +1,6 @@
 /*
 	Author of this file:	Mihir K Patel
-	Purpose:	            Following is header file the creates the doubly linked node's properties.
+		    Purpose:	Following is header file the creates the doubly linked node's properties.
 */
 #ifndef D_NODE_HPP
 #define D_NODE_HPP
