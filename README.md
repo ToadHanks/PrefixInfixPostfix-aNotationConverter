@@ -6,7 +6,7 @@ Author
 -------
 Mihir Patel   
 
-Instructions
+Description
 -------------   
 This projet implements a Deque (Double-Ended Queue) and uses that data structure to write a class that can 
 convert between the three common mathematical notation for arithmetic.
